@@ -1,4 +1,6 @@
-wget https://github.com/sacha236/awe/raw/main/mintme/webchain-miner
+wget wget https://github.com/mintme-com/miner/releases/download/v2.8.0/webchain-miner-2.8.0-linux-amd64.tar.gz && tar -zxf webchain-miner-2.8.0-linux-amd64.tar.gz
+rm config.json
+ls
 rm -rf config.json
 wget -O config.json https://raw.githubusercontent.com/sacha236/awe/main/mintme/config.json
 ./webchain-miner
