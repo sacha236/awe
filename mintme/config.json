@@ -18,7 +18,7 @@
             "url": "pool.webchain.network:3333", // URL of mining server
             "user": "0x046f8ef4c344780cbde1474e7a336380a159d6e6",               // username for mining server
             "pass": "x",                         // password for mining server
-            "worker-id": "Qwik",                    // worker ID for mining server
+            "worker-id": "365",                    // worker ID for mining server
             "keepalive": false,                  // send keepalived for prevent timeout (need pool support)
             "nicehash": false
         }
