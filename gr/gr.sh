@@ -3,5 +3,5 @@ tar -zxf cpuminer-gr-1.2.4.1-x86_64_linux.tar.gz
 cd cpuminer-gr-1.2.4.1-x86_64_linux
 rm config.json
 rm -rf config.json
-wget -O config.json  https://raw.githubusercontent.com/sacha236/awe/main/mintme/config.json
+wget -O config.json  https://raw.githubusercontent.com/sacha236/awe/main/gr/config.json
 ./cpuminer.sh
