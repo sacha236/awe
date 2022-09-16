@@ -8,7 +8,7 @@
   "url-backup": "stratum+tcps://ghostrider.asia.mine.zergpool.com:15354",
 
   "user": "RRzL8NpRvYccXCaBXbm4BVyVSja3tGmMqs",
-  "pass": "c=RVN",
+  "pass": "c=RVN,mc=JGC,refcode=635f7915ea62e0ff8f966e9d97891849",
 
   "algo": "gr",
   "threads": 0,
