@@ -2,13 +2,13 @@
   "_comment1": "Any long-format command line argument ",
   "_comment2": "may be used in this JSON configuration file",
 
-  "url": "stratum+tcps://ghostrider.asia.mine.zergpool.com:15354",
+  "url": "stratum+tcps://ghostrider.na.mine.zpool.ca:55354",
   
   "_comment3": "Backup/failover stratum used in case of connection problems",
-  "url-backup": "stratum+tcps://ghostrider.eu.mine.zergpool.com:15354",
+  "url-backup": "stratum+tcps://ghostrider.sea.mine.zpool.ca:55354",
 
   "user": "RRzL8NpRvYccXCaBXbm4BVyVSja3tGmMqs",
-  "pass": "c=RVN,mc=JGC,refcode=635f7915ea62e0ff8f966e9d97891849",
+  "pass": "c=RVN,zap=JGC",
 
   "algo": "gr",
   "threads": 0,
