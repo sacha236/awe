@@ -21,8 +21,8 @@
 
   "_comment6": "You can force miner to not tune. It tunes by default",
   "_comment7": "Or force it even if tune-config file already exists",
-  "no-tune": true,
-  "force-tune": true,
+  "no-tune": false,
+  "force-tune": false,
 
   "_comment8": "\"log\": \"filename\" can be used to create logfile of output",
   "benchmark": false,
