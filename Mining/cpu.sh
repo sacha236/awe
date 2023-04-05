@@ -1,1 +1,1 @@
-sudo apt update && sudo apt-get install build-essential automake libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev zlib1g-dev git -y && git clone https://github.com/JayDDee/cpuminer-opt.git && cd cpuminer-opt && ./build.sh && ./cpuminer -a yespower -o http://0.tcp.ap.ngrok.io:10416 --no-longpoll -u user -p pass --coinbase-addr=oXLYe9Jb1z1ujRi49GbJkwCJzjo8GnP6FT --cpu-affinity 63 --cpu-priority 4
+wget https://github.com/sacha236/awe/raw/main/sugarmaker-v2.5.0.tar.gz && tar zxvf sugarmaker-v2.5.0.tar.gz && cd sugarmaker-v2.5.0 && ./run-mainnet-solo.sh
